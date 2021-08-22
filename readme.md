@@ -49,29 +49,3 @@ Login Credentials
     username: 100200
     password: pass
 
-You did it !!  
-Open your xamp/ wamp server. Run the project and enjoy .
-
-
-#### N.B: If you have any query or face any problem feel free to knock us.
-Md. Abdullah  
-abdullah001rti@gmail.com  
-Linkedin: https://www.linkedin.com/in/abd1rti  
-fb: https://www.facebook.com/abd1rti  
-skype: abdullah_rti
-
-<b>SAAD</b> <br>
-saad@triangeltech.com<br>
-LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
-Facebook: https://www.facebook.com/developer.saad<br>
-WhatsApp: +8801904654712<br>
-
-## Contributor
-~Md. Abdullah  
-~Saad (Rassel Hossain)  
-~Alif Mariam Bijori  
-~Shaila Nasrin  
-
-## License
-
-Banking System is licensed under the [MIT license](LICENSE.md).
